@@ -1,0 +1,14 @@
+total 48
+drwxr-xr-x 2 obed obed 4096 Sep  5 14:25 .
+drwxr-xr-x 6 obed obed 4096 Sep  5 13:43 ..
+-rwxr-xr-x 1 obed obed   32 Sep  5 13:43 0-hello_world
+-rwxr-xr-x 1 obed obed   26 Sep  5 13:53 1-confused_smiley
+-rwxr-xr-x 1 obed obed   28 Sep  5 13:43 2-hellofile
+-rwxr-xr-x 1 obed obed   39 Sep  5 13:43 3-twofiles
+-rwxr-xr-x 1 obed obed   35 Sep  5 13:43 4-lastlines
+-rwxr-xr-x 1 obed obed   35 Sep  5 13:47 5-firstlines
+-rwxr--r-- 1 obed obed   41 Sep  5 14:08 6-third_line
+-rwxr--r-- 1 obed obed   72 Sep  5 14:21 7-file
+-rwxr--r-- 1 obed obed   36 Sep  5 14:24 8-cwd_state
+-rw-r--r-- 1 obed obed   37 Sep  5 13:43 README.md
+-rw-r--r-- 1 obed obed    0 Sep  5 14:25 ls_cwd_content
