@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 
-#All current running processes
-
-ps -aux
+# All current running processes
+ps -axu
